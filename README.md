@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUDDADA TEJESWARA RAO</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm passionate Full Stack web developer having an experience of web applications with HTML5, CSS3, JavaScript and MERN (Mongodb, Express, React.js and Node.js).</h3>
 
 - 🌱 I’m currently learning **react.js**
 
