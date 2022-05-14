@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://tejeswara-rao-muddada-portfolio.vercel.app/](https://tejeswara-rao-muddada-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://muddada-tejeswara-rao-portfolio.vercel.app/](https://muddada-tejeswara-rao-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN STACK**
 
