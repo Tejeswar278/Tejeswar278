@@ -1,9 +1,9 @@
 <!-- <h1 align="center">Hi 👋, I'm MUDDADA TEJESWARA RAO</h1>
 <h3 align="center">I'm passionate Full Stack web developer having an experience of web applications with HTML5, CSS3, JavaScript and MERN (Mongodb, Express, React.js and Node.js).</h3>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **tailwind css**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **muddadateja1999@gmail.com**
 
@@ -25,7 +25,7 @@
 <h1 align="center">Hi 👋, I'm MUDDADA TEJESWARA RAO</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **tailwind css**
 
 - 👨‍💻 All of my projects are available at [https://muddada-tejeswara-rao-portfolio.vercel.app/](https://muddada-tejeswara-rao-portfolio.vercel.app/)
 
